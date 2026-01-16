@@ -7,3 +7,5 @@ echo "List files:"
 ls -l
 echo "Show disk usage:"
 df -h
+echo "Show system uptime:"
+uptime
