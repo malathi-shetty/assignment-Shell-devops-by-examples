@@ -1,0 +1,2 @@
+echo "System uptime:"
+uptime
